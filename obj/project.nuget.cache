@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "8k+W8EEw0PPITpqryW16761bljzKCilL4p9Ja4rW9E5P/F/eu2KjnJLXWni4uZfl22JQCJWauERwUThFp+Eudw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josip\\source\\repos\\Projektic\\Projektic\\Projektic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josip\\.nuget\\packages\\blazorise\\1.1.6\\blazorise.1.1.6.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\blazorise.bootstrap\\1.1.6\\blazorise.bootstrap.1.1.6.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\blazorise.icons.fontawesome\\1.1.6\\blazorise.icons.fontawesome.1.1.6.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.9\\microsoft.aspnetcore.authorization.6.0.9.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.9\\microsoft.aspnetcore.components.6.0.9.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.9\\microsoft.aspnetcore.components.analyzers.6.0.9.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.9\\microsoft.aspnetcore.components.forms.6.0.9.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.9\\microsoft.aspnetcore.components.web.6.0.9.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.9\\microsoft.aspnetcore.metadata.6.0.9.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\microsoft.jsinterop\\6.0.9\\microsoft.jsinterop.6.0.9.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\josip\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

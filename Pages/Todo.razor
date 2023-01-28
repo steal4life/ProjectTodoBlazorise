@@ -1,0 +1,46 @@
+﻿@page "/todo"
+
+<h3>Completed: (@todos.Count(todo=>todo.IsDone)) Pending: (@todos.Count(todo=>!todo.IsDone))</h3>
+
+<ul>
+    @foreach (var todo in todos)
+    {
+        <li>
+            <input type="checkbox" @bind="todo.IsDone" />
+            <input @bind="todo.Title" />
+            <input @bind="todo.date" />
+        </li>
+    }
+</ul>
+<h3>Ovo je Todo Lista</h3>
+
+<p>Stvaraju se nova polja(todo elementi na klik add-a), prekon Count funkcije program provjerava koliko je još ostalo poslova za odradio te koliko je odrađenih poslova...
+    
+
+</p>
+
+<input placeholder="Something todo" @bind="newtodo" />
+<input type="date" placeholder="Select date" @bind="date" />
+<button @onclick="AddTodo">Add</button>
+
+
+@code {
+    private IList<TodoItem> todos = new List<TodoItem>();
+
+    private string newtodo;
+    private DateTime date;
+
+    private void AddTodo()
+    {
+        if (!string.IsNullOrWhiteSpace(newtodo))
+        {
+            todos.Add(new TodoItem()
+                {
+                    Title = newtodo,
+                    date = date
+                });
+            newtodo = String.Empty;
+
+        }
+    }
+}
